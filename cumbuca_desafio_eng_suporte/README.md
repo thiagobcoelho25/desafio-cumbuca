@@ -1,6 +1,18 @@
 # CumbucaDesafioEngSuporte
 
-**TODO: Add description**
+Para gerar binario entre na pasta "cumbuca_desafio_eng_suporte" e rode:
+
+```
+mix escript.build
+```
+
+Ira ser gerado um binario chamado `cumbuca_desafio_eng_suporte`. Para rodar o programa execute o binario.
+
+Para rodar os testes, execute no terminal (dentro da pasta cumbuca_desafio_eng_suporte):
+
+```
+mix test
+```
 
 ## Installation
 
